@@ -1,7 +1,7 @@
 import sys
 
 from PySide2.QtWidgets import QApplication, QMainWindow, QMessageBox
-from ui.ui import Ui_Dialog
+from ui import Ui_Dialog
 from MyQR import myqr
 
 class Dialog(Ui_Dialog, QMainWindow):
