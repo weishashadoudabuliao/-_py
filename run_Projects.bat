@@ -1,0 +1,1 @@
+python C:\Users\Administrator\PycharmProjects\¶şÎ¬ÂëÉú³ÉÆ÷\main.py
